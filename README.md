@@ -1,2 +1,3 @@
-# fuego-impact-study
-A collaborative case study on the geological, environmental, and societal impacts of Volcán de Fuego
+# Fuego Impact Study
+
+The fuego-impact-study repository serves as a collaborative platform for analyzing the geological processes, environmental consequences, and societal impacts of Volcán de Fuego. This project aims to compile historical eruption data, assess socio-economic effects on infrastructure and regional economy, and document ecological consequences of volcanic activity. By integrating multidisciplinary data and analyses, the repository provides a comprehensive case study for researchers, policymakers, and communities affected by volcanic hazards.
